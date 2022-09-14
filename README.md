@@ -1,7 +1,7 @@
 # 99.co_exercise
 
-Data Science Take Home Exercice
-Intro
+#Data Science Take Home Exercice
+#Intro
 The objective is to give the candidate an opportunity to demonstrate some of her/his Data Science skills through a simple use case at 99.co.
 
 You will have to use Python but you can choose the environments and the libraries which you are more confortable with.
